@@ -1,6 +1,6 @@
 <h1 align='center'> A Fun and moderation bot with 150+ Commnds made using discord.js 
- Made by tag:- cw Khan#6496 
-Id 682981714523586606 </h1> 
+ Made by tag:- ! J#6969 
+Id 680993316577607699 </h1> 
 
 
 <h3 align='center'> STAR ⭐ THE PROJECT IF U LIKE :) </h3>
@@ -31,9 +31,9 @@ IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER 😁 </h3>
 <img src="https://top.gg/api/widget/744597377406599188.svg"/>
  </a> </div>
 
-**[SUPPORT SERVER](https://dsc.gg/kmdevs)**||
+**[SUPPORT SERVER](https://discord.io/jesscommunity)**||
 
-**[INVITE BOT](https://discord.com/api/oauth2/authorize?client_id=744597377406599188&permissions=8&scope=bot)**
+**[INVITE BOT](https://discord.com/api/oauth2/authorize?client_id=844742706927370270&permissions=8&scope=bot)**
 
 
 
